@@ -9,4 +9,11 @@
 ## Week 2
 
   - Image Augmentation
-  - Impact of Image Augmentation
+  - Impact of Image Augmentation on Overfitting 
+
+## Week 2
+
+  - Transfer Learning 
+  - InceptionV3 DNN Architecture
+  - Locking trained layers
+  - Dropouts 
